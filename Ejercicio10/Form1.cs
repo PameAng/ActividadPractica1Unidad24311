@@ -19,7 +19,7 @@ namespace Ejercicio10
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Pamela Angomas LR-2024-01509");
+            MessageBox.Show("Hola, soy Pamela Angomas LR-2024-01509");
         }
     }
 }
